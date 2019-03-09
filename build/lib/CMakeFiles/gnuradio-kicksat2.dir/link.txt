@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libgnuradio-kicksat2-1.0.0git.so.0.0.0 -o libgnuradio-kicksat2-1.0.0git.so.0.0.0 CMakeFiles/gnuradio-kicksat2.dir/moving_max_ff_impl.cc.o -lboost_filesystem -lboost_system -lgnuradio-runtime -lgnuradio-pmt -llog4cpp 

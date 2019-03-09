@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="dir_812ae73bdeb5fc6abffe8be6a7b51ce4" kind="dir">
+    <compoundname>kicksat2</compoundname>
+    <innerfile refid="api_8h">api.h</innerfile>
+    <innerfile refid="moving__max__ff_8h">moving_max_ff.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zacman/Documents/gr-kicksat2/include/kicksat2/"/>
+  </compounddef>
+</doxygen>

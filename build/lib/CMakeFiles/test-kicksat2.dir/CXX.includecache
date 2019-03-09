@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zacman/Documents/gr-kicksat2/lib/qa_kicksat2.cc
+qa_kicksat2.h
+/home/zacman/Documents/gr-kicksat2/lib/qa_kicksat2.h
+
+/home/zacman/Documents/gr-kicksat2/lib/qa_kicksat2.h
+gnuradio/attributes.h
+-
+cppunit/TestSuite.h
+-
+
+/home/zacman/Documents/gr-kicksat2/lib/test_kicksat2.cc
+config.h
+/home/zacman/Documents/gr-kicksat2/lib/config.h
+cppunit/TextTestRunner.h
+-
+cppunit/XmlOutputter.h
+-
+gnuradio/unittests.h
+-
+qa_kicksat2.h
+/home/zacman/Documents/gr-kicksat2/lib/qa_kicksat2.h
+iostream
+-
+fstream
+-
+

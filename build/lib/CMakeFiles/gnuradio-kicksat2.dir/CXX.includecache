@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/kicksat2/api.h
+gnuradio/attributes.h
+-
+
+../include/kicksat2/moving_max_ff.h
+kicksat2/api.h
+-
+gnuradio/sync_block.h
+-
+
+/home/zacman/Documents/gr-kicksat2/lib/moving_max_ff_impl.cc
+config.h
+/home/zacman/Documents/gr-kicksat2/lib/config.h
+gnuradio/io_signature.h
+-
+moving_max_ff_impl.h
+/home/zacman/Documents/gr-kicksat2/lib/moving_max_ff_impl.h
+
+/home/zacman/Documents/gr-kicksat2/lib/moving_max_ff_impl.h
+kicksat2/moving_max_ff.h
+-
+
